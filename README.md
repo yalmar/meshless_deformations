@@ -14,3 +14,7 @@ make
 
 ## Options
 When running the program the user can pass one of `"single"`, `"coarse"` or `"tetrahedron"` to choose the clustering method.
+
+## Screenshot
+![Demo](./doc/screenshot.png)
+
